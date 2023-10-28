@@ -1,1 +1,1 @@
-/home/dmitry/Documents/daemon/dir1 2
+/home/marina/Documents/daemon/dir1 
